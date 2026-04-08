@@ -142,7 +142,7 @@ const LoginPage: React.FC = () => {
                         <ul className="space-y-2">
                             <li>
                                 <span className="font-semibold">Prof. Ram Mohan</span><br/>
-                                Email: <span className="font-mono">rammohan@necn.ac.in</span><br/>
+                                Email: <span className="font-mono">Rammohan@necn.ac.in</span><br/>
                                 Pass: <span className="font-mono">password</span>
                             </li>
 
@@ -160,7 +160,7 @@ const LoginPage: React.FC = () => {
                         <ul className="space-y-2">
                             <li>
                                 <span className="font-semibold">Dr. Ramesh Kumar</span><br/>
-                                Email: <span className="font-mono">hod@necn.ac.in</span><br/>
+                                Email: <span className="font-mono">Hod@necn.ac.in</span><br/>
                                 Pass: <span className="font-mono">password</span>
                             </li>
 
